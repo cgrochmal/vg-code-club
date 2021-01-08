@@ -1,0 +1,3 @@
+[submodule "hang-in-there"]
+	path = hang-in-there
+	url = https://github.com/cgrochmal/hang-in-there
