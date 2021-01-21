@@ -1,3 +1,6 @@
 [submodule "hang-in-there"]
 	path = hang-in-there
 	url = https://github.com/cgrochmal/hang-in-there
+[submodule "mythical-critters"]
+	path = mythical-critters
+	url = https://github.com/cgrochmal/mythical-critters
